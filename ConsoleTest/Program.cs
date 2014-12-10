@@ -12,6 +12,7 @@ namespace ConsoleTest
         {
             var abc = "Hello world";
             abc = abc.Trim(); ;
+            //Comments by Ronak.
         }
     }
 }
