@@ -1,0 +1,2 @@
+E:\GitHubTesting\GitHubsln\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\My Data\RND\GitHub\Testing\ConsoleTest\bin\Debug\ConsoleTest.exe.config
