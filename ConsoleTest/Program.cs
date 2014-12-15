@@ -14,6 +14,7 @@ namespace ConsoleTest
             abc = abc.Trim(); ;
             abc = "Hello2";
             abc = "Hello2";
+            abc = "Hello3";
         }
     }
 }
