@@ -1,3 +1,4 @@
 E:\GitHubTesting\GitHubsln\ConsoleTest\bin\Debug\ConsoleTest.exe.config
 E:\My Data\RND\GitHub\Testing\ConsoleTest\bin\Debug\ConsoleTest.exe.config
 E:\My Data\RND\GitHub\Testing2\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\GitHubTest\WS1\TestSolution.git\branches\MR14_6\ConsoleTest\bin\Debug\ConsoleTest.exe.config
