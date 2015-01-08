@@ -16,6 +16,11 @@ namespace ConsoleTest
             abc = "Hello2";
             abc = "Hello3";
             abc = "Hello4";
+
+            abc = "Hello1";
+            abc = "Hello2";
+            abc = "Hello3";
+            abc = "Hello4";
         }
     }
 }
